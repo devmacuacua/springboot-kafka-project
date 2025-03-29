@@ -1,4 +1,4 @@
-package com.devmacuacua.springboot;
+package com.devmacuacua.springboot.springboot;
 
 import com.launchdarkly.eventsource.EventHandler;
 import com.launchdarkly.eventsource.EventSource;

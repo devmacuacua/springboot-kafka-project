@@ -1,4 +1,4 @@
-package com.devmacuacua.springboot;
+package com.devmacuacua.springboot.springboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

@@ -1,4 +1,4 @@
-package com.devmacuacua.springboot;
+package com.devmacuacua.springboot.springboot;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;
